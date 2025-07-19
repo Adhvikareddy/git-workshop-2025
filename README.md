@@ -10,6 +10,7 @@
 <details>
 <summary><h3> 2. Implement a program to check if a number is even or odd. </h3></summary>
 <ul>
+<h4>
 <pre>#include<iostream>
      using namespaces std;
      int main(){
@@ -22,7 +23,7 @@
               cout<<"Odd Number"<<endl;
           }
      }
-</pre>   
+</pre></h4>   
   <li> Create a new file in the repository and add your code. </li>
   <li> Use any programming language of your choice. </li>
 </ul>
